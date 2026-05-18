@@ -1,6 +1,7 @@
 from Matrices import *
 from tkinter import *
 import random
+import math
 
 # some vector maths I used
 # D(C(B(A(V)))) = V'
